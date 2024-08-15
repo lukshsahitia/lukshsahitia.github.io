@@ -1,0 +1,166 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', Arial, sans-serif;
+    background-color: #f7f8fc;
+    color: #444;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+}
+
+/* Header Styles */
+header {
+    background: linear-gradient(135deg, #5a67d8, #667eea);
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1.3rem;
+    margin-top: 0.5rem;
+    font-weight: 300;
+}
+
+/* General Link Styles */
+a {
+    text-decoration: none;
+    color: inherit; 
+}
+
+/* Navigation Bar Styles */
+nav {
+    background-color: #5a67d8;
+    padding: 0.5rem 0;
+    border-radius: 25px;
+    margin: 1rem auto;
+    max-width: 900px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border-radius: 25px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #667eea;
+    transform: scale(1.05);
+}
+
+/* Section Styles */
+section {
+    padding: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Projects Section */
+#projects {
+    padding: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #5a67d8;
+    font-size: 2.4rem;
+    border-bottom: 3px solid #5a67d8;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+/* Project Link and Div Styles */
+a.project-link {
+    display: block;
+    text-decoration: none;
+}
+
+.project {
+    background: white;
+    margin-bottom: 2.5rem;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-left: 6px solid #667eea;
+}
+
+.project:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.project h3 {
+    margin-top: 0;
+    color: #333;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+.project p {
+    margin-bottom: 1.2rem;
+    font-weight: 300;
+}
+
+.project ul {
+    padding-left: 20px;
+    font-weight: 300;
+    list-style-type: disc;
+}
+
+.github-link {
+    text-decoration: none;
+    color: #5a67d8;
+    font-size: 1.2rem;
+    font-weight: bold;
+    display: inline-block;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.github-link:hover {
+    transform: translateY(-5px);
+    color: #667eea;
+}
+
+/* Footer Styles */
+footer {
+    background: #5a67d8;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: 3rem;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 300;
+}

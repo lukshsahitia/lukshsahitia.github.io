@@ -1,0 +1,33 @@
+
+.welcome-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+    margin-bottom: 20px; 
+}*/
+
+.welcome-message {
+    color: black; 
+    padding: 8px 16px; 
+    border-radius: 30px; 
+    font-size: 1rem; 
+    font-family: 'Helvetica Neue', sans-serif; 
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15); 
+    text-align: center; 
+    background-color: white; 
+}
+
+.user-name {
+    font-weight: 600;
+    color: black; 
+    text-transform: capitalize; 
+}
+
+.transactions-for-label {
+    font-size: 1.1rem; /* Adjust this value as needed for 2x smaller size */
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #333; /* Adjust the color if needed */
+}
