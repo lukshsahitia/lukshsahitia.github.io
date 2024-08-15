@@ -1,4 +1,4 @@
-# Blake Kotter's Portfolio
+# Luksh Sahitia's Portfolio
 
 Welcome to my portfolio! This repository showcases a collection of projects that I have worked on, demonstrating my skills in web development, back-end development, and game development. Each project highlights different aspects of my expertise, including front-end design, back-end logic, and the use of modern development frameworks.
 
@@ -10,26 +10,26 @@ My portfolio includes the following projects:
    - A comprehensive platform designed to handle various banking operations.
    - Includes Admin, Employee, and Customer dashboards.
    - Built with React.js, Node.js, Express.js, and MongoDB.
-   - [View the Banking App Project](https://blakekotter.github.io/portfolio/banking-app.html)
-   - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/BankingApp)
+   - [View the Banking App Project](https://lukshsahitia.github.io/banking-app.html)
+   - [Explore the Code](https://github.com/lukshsahitia/lukshsahitia.github.io/tree/main/BankingApp)
 
 ### 2. **Mongo Accounts**
    - An application for managing user accounts with secure authentication.
    - Built with React.js, Node.js, Express.js, and MongoDB.
-   - [View the Mongo Accounts Project](https://blakekotter.github.io/portfolio/mongo-accounts.html)
-   - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/MongoAccounts)
+   - [View the Mongo Accounts Project](https://lukshsahitia.github.io/mongo-accounts.html)
+   - [Explore the Code](https://github.com/lukshsahitia/lukshsahitia.github.io/tree/main/MongoAccounts)
 
 ### 3. **Hangman Game**
    - A classic word-guessing game implemented using the MERN stack.
    - Features random word generation and session management.
-   - [View the Hangman Game Project](https://blakekotter.github.io/portfolio/hangman.html)
-   - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/Hangman)
+   - [View the Hangman Game Project](https://lukshsahitia.github.io/hangman.html)
+   - [Explore the Code](https://github.com/lukshsahitia/lukshsahitia.github.io/tree/main/Hangman)
 
 ### 4. **Four in a Row**
    - A digital recreation of the Connect Four game.
    - Includes dynamic game logic and a responsive design.
-   - [View the Four in a Row Project](https://blakekotter.github.io/portfolio/four-in-a-row.html)
-   - [Explore the Code](https://github.com/blakekotter/portfolio/tree/main/FourinaRowGame)
+   - [View the Four in a Row Project](https://lukshsahitia.github.io/four-in-a-row.html)
+   - [Explore the Code](https://github.com/lukshsahitia/lukshsahitia.github.io/tree/main/FourInARowGame)
 
 ## Technologies Used
 
